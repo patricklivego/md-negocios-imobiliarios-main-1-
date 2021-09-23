@@ -1,0 +1,25 @@
+/*classes e id customizados*/
+/*======PÁGINA QUEM SOMOS=====*/
+#section-quem-somos{
+    padding:80px 0 0;
+}
+#texto-quem-somos i{
+    color:#fd9827;   
+}
+
+#bloco-valores  {
+    
+    padding:20px;
+    text-align: justify;
+}
+
+h5.titulo-valores {
+    color:#fd9827;
+}
+
+
+
+/*=====PÁGINA IMÓVEL VIEW======*/
+#bloco-imovel-view{
+    padding-top: 100px!important;
+}
